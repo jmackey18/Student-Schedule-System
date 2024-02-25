@@ -1,0 +1,30 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/loginPage.cpp
+.vs/
+/bin/
+/obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+*.log
+*.config
+*.bak
+*.sqlproj.user
+
+# Windows Forms specific
+bin/Release/
+obj/Release/
+*.exe
+*.pdb
+
+# MySQL specific
+*.mysql
+
+# Targeting x64 architecture
+x64/
